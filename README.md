@@ -202,14 +202,6 @@ The platform delivers centralized communication infrastructure through enquiry w
 
 ---
 
-## Platform Preview
-
-Modern communication workflows engineered for administrators, support teams, customer operations, and communication management systems.
-
-The platform delivers centralized communication infrastructure through enquiry workflows, subscription management systems, delivery monitoring operations, and enterprise-grade administrative experiences.
-
----
-
 # 🌐 Web Platform Screenshots
 
 <p align="center">
