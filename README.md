@@ -1,11 +1,12 @@
 # 📬 ContactHub Admin Platform
 
-![Angular](https://img.shields.io/badge/Angular-19-red)
-![Ionic](https://img.shields.io/badge/Ionic-Mobile-blue)
-![TypeScript](https://img.shields.io/badge/TypeScript-Enterprise-blue)
-![Firebase](https://img.shields.io/badge/Firebase-Backend-orange)
-![Architecture](https://img.shields.io/badge/Architecture-Mobile%20First-purple)
-![Security](https://img.shields.io/badge/Security-Admin%20Workflows-success)
+![.NET](https://img.shields.io/badge/.NET-10-purple)
+![Blazor](https://img.shields.io/badge/Blazor-WebAssembly-blue)
+![MAUI](https://img.shields.io/badge/.NET%20MAUI-CrossPlatform-green)
+![Cross Platform](https://img.shields.io/badge/Cross%20Platform-Android%20|%20iOS%20|%20Windows%20|%20macOS-blue)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-Database-red)
+![Architecture](https://img.shields.io/badge/Architecture-Multi%20Tenant-purple)
+![Security](https://img.shields.io/badge/Security-JWT%20Authentication-success)
 ![Deployment](https://img.shields.io/badge/Deployment-Cloud-green)
 ![Status](https://img.shields.io/badge/Status-Production%20Ready-success)
 
@@ -127,50 +128,63 @@ Capabilities include:
 
 ## Technology Stack
 
-### Frontend Engineering
+### Backend
 
-- Angular 19
-- Ionic Framework
-- TypeScript
-- SCSS
-- Angular Router
-- RxJS
-- Responsive UI Architecture
-
----
-
-### Backend Infrastructure
-
-- Firebase
-- Firestore Database
-- Firebase Authentication
-- Cloud Functions
-- Firebase Hosting
-- REST-based Services
+- .NET 10
+- ASP.NET Core Minimal API
+- Entity Framework Core
+- SQL Server
+- JWT Authentication
+- Background Workers
 
 ---
 
-### Communication Infrastructure
+### Web Administration
 
-- Contact Processing
-- Subscription Management
-- Email Delivery Workflows
-- Response Management
-- Communication Monitoring
-- Administrative Operations
+- Blazor WebAssembly
+- Tailwind CSS
+- PostCSS
+- Syncfusion Blazor
 
 ---
 
-### Architecture & Operations
+### Mobile Application
 
-- Mobile-First Architecture
-- Component-Based Design
-- Operational Dashboard System
-- Workflow Infrastructure
-- Responsive Engineering
+- .NET MAUI Blazor Hybrid
+- Android
+- iOS
+- macOS
+- Windows
+
+---
+
+### Shared Platform Library
+
+- Shared Blazor Components
+- Reusable Service Layer
+- Common DTO Models
 - Theme Management
+- Dialog & Loading Components
+- Shared Business Logic
 
 ---
+
+### Data & Storage
+
+- SQL Server
+- SQLite Offline Storage
+- Entity Framework Core
+
+---
+
+### Platform Capabilities
+
+- Multi-Tenant Architecture
+- Offline-First Mobile Experience
+- Email Failure Monitoring
+- Contact Management Workflows
+- Subscription Management
+- Cross-Platform Administration
 
 # 🏗️ System Architecture
 
@@ -182,15 +196,17 @@ The ContactHub Admin Platform follows a modular communication management archite
 
 ### Architecture Highlights
 
-- Secure Authentication & Access Control
-- Enquiry Management Workflows
-- Subscription Management Operations
-- Email Delivery Monitoring & Retry System
-- Notification & Alert Services
-- Centralized Administrative Dashboard
-- Database & Cache Layer Integration
-- Monitoring, Logging & Security Controls
-- Scalable Cloud Deployment Infrastructure
+* Multi-Tenant Communication Platform
+* JWT Authentication & Refresh Tokens
+* Contact & Subscription Workflows
+* Email Failure Monitoring & Retry System
+* Offline-First Mobile Experience
+* Shared Blazor UI & Service Library
+* Cross-Platform Administration
+* SQL Server & SQLite Data Storage
+* Background Processing Services
+* Mobile & Web Code Reusability
+* Scalable Cloud Deployment
 
 ---
 
