@@ -15,11 +15,7 @@ Enterprise-grade communication management platform designed for enquiry processi
 ---
 
 <p align="center">
-  <img
-    src="./assets/branding/contacthub-banner.png"
-    width="100%"
-    alt="ContactHub Admin Platform Banner"
-  />
+  <img src="./assets/branding/contacthub-banner.png" width="100%" alt="ContactHub Admin Platform Banner"/>
 </p>
 
 ---
